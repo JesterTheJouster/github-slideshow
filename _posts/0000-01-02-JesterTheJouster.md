@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Would you like to play a game? 
+LETS PLAY RED LIGHT GREEN LIGHT heeheehee
 Use the left arrow to go back!
